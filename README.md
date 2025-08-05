@@ -35,6 +35,6 @@ It requires mastering:
 ## 🛠 Installation
 
 ```bash
-git clone https://github.com/yourusername/ft_printf.git
+git clone https://github.com/seeknoobwidom/ft_printf.git
 cd ft_printf
 make
